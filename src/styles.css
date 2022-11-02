@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.flex {
+  display: flex;
+}
+.dir-col {
+  flex-direction: column;
+}
+.gap {
+  gap: 1rem;
+}
+.flag {
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+.center {
+  border: 1px solid black;
+  margin: 0 auto;
+}
+input {
+  width: 500px;
+  max-width: 90%;
+  margin: 2rem;
+  padding: 0.4rem 1rem;
+  font-size: 1.2rem;
+}
